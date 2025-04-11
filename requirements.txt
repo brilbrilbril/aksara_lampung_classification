@@ -1,0 +1,10 @@
+torch
+torchvision
+transformers
+datasets
+timm
+evaluate
+accelerate
+pillow
+streamlit
+streamlit-drawable-canvas
