@@ -8,3 +8,5 @@ accelerate
 pillow
 streamlit
 streamlit-drawable-canvas
+scikit-learn
+tf-keras==2.18.0
